@@ -14,7 +14,7 @@ This project aims to provide a predictive model for diabetes diagnosis using neu
 * Feature description: The original data contains 8 features. Except for “BloodPressure,” all other features were significantly associated with diabetes diagnosis.
 
 ## Model performance
-* The classification accuracy of the single-layer perceptron on the test data is 0.708.
+* The classification accuracy of the Perceptron(single-layer perceptron) on the test data is 0.708.
 * The classification accuracy of the SimpleMLP(Single-hidden-layer MLP) on the test data is 0.727.
 * The classification accuracy of the multi-layer neural network(Double-hidden-layer MLP) is 0.766.
 
